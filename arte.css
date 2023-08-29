@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{
+    background-image: url("../Assets/Background.png");
+}
+
+main{
+    background-color: white;
+}
+
+header{
+    background: rgb(53, 83, 255) url("../Assets/Pattern.png") center center no-repeat scroll;
+    
+}
